@@ -1,3 +1,4 @@
+<!-- Copyright (c) 2026 Simone Dassereto. All rights reserved. See LICENSE. -->
 # Creative Production Guidelines - [NOME BRAND]
 
 > **A cosa serve:** il manuale operativo di produzione. Il design system dice *quali* sono i numeri;

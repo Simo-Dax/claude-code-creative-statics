@@ -2,6 +2,7 @@
 name: creative-router
 description: Decide per ogni static ad la route di produzione - A (CSS deterministico), B (Higgsfield generativo), hybrid (B per l'immagine + A per l'impaginazione) o A-composite (cambio copy su un'ad già consegnata) - esegue il pre-flight e passa il lavoro alla skill giusta. Usala dopo creative-concept, o quando l'utente chiede "come la produco", "Higgsfield o CSS?", "fai le varianti".
 ---
+<!-- Copyright (c) 2026 Simone Dassereto. All rights reserved. See LICENSE. -->
 
 # Creative router
 

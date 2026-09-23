@@ -1,3 +1,4 @@
+<!-- Copyright (c) 2026 Simone Dassereto. All rights reserved. See LICENSE. -->
 # Business Profile - [NOME BRAND]
 
 > **A cosa serve:** è la fonte di verità per *cosa* può dire un'ad. Ogni claim, numero o prova sociale

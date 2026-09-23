@@ -2,6 +2,7 @@
 name: statics-css
 description: Route A (deterministica) - costruisce static ads in HTML/CSS alla geometria esatta del design system partendo da un template ufficiale, e le rasterizza con Chrome headless. Zero crediti, zero retry, logo e screenshot veri. Include la modalità A-composite per cambiare il copy su un'ad già consegnata. Usala quando creative-router assegna A, A-composite o la seconda metà di un hybrid, e per tutte le permutazioni (formati, mercati, varianti di copy).
 ---
+<!-- Copyright (c) 2026 Simone Dassereto. All rights reserved. See LICENSE. -->
 
 # Statics CSS (Route A)
 

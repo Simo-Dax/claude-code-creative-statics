@@ -1,21 +1,36 @@
-MIT License
+Creative Statics Kit per Claude Code
+Copyright (c) 2026 Simone Dassereto. All rights reserved.
 
-Copyright (c) 2026 Simone Dassereto
+This repository and every file in it (skills, system prompt, scripts, HTML templates, context
+templates, documentation, and their structure and selection as a whole) are the original work of
+Simone Dassereto and are protected by copyright law.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+LIMITED PERSONAL-USE PERMISSION
+Permission is granted to an individual to view, clone and run this material for their own
+personal, internal learning and for producing creatives for their own brand or employer, provided
+that this notice and every copyright header in the files are kept intact.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+WITHOUT PRIOR WRITTEN PERMISSION FROM THE AUTHOR, YOU MAY NOT:
+  1. redistribute, publish, mirror or re-host this material, in whole or in part, modified or not;
+  2. sell, sublicense, or include it in any paid product, course, template pack, service offering
+     or training material;
+  3. remove, alter or obscure the author's name, copyright notices or headers;
+  4. present this material, or work derived from it, as your own or as authored by anyone other
+     than Simone Dassereto;
+  5. use it to train or fine-tune machine-learning models.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Any use not expressly permitted above is reserved to the author. The permission above ends
+automatically if any of these terms is breached.
+
+THE MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE AUTHOR IS NOT LIABLE FOR ANY
+CLAIM, DAMAGE OR OTHER LIABILITY ARISING FROM ITS USE.
+
+Requests for permission: open an issue on the repository or contact the author.
+
+---
+
+Sintesi in italiano (in caso di dubbio prevale il testo inglese sopra):
+Tutti i diritti riservati a Simone Dassereto. Puoi consultare, clonare e usare il kit per te o per il
+tuo brand/azienda, lasciando intatti questo avviso e le intestazioni nei file. Senza permesso scritto
+non puoi ridistribuirlo, venderlo, inserirlo in corsi o prodotti, togliere il nome dell'autore,
+spacciarlo per tuo o usarlo per addestrare modelli.

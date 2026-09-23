@@ -1,3 +1,4 @@
+<!-- Copyright (c) 2026 Simone Dassereto. All rights reserved. See LICENSE. -->
 # Asset del brand
 
 Tutto quello che Route A compone e Route B allega come reference. Se un file non è qui, per l'agente

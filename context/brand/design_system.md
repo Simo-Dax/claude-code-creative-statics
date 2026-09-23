@@ -1,3 +1,4 @@
+<!-- Copyright (c) 2026 Simone Dassereto. All rights reserved. See LICENSE. -->
 # Design System - [NOME BRAND]
 
 > **A cosa serve:** i numeri del brand. Colori, font, scala tipografica, geometria del canvas.

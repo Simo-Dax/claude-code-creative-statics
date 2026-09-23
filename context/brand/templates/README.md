@@ -1,3 +1,4 @@
+<!-- Copyright (c) 2026 Simone Dassereto. All rights reserved. See LICENSE. -->
 # Template ufficiali delle static ads
 
 > **A cosa serve:** ogni static parte da qui. Il template è il layout approvato; l'agente lo *riempie*,

@@ -1,3 +1,4 @@
+<!-- Copyright (c) 2026 Simone Dassereto. All rights reserved. See LICENSE. -->
 # Creative Statics Kit per Claude Code
 
 Static ads con l'AI **senza l'effetto "AI ad"**: un agente che parte dal contesto del brand, scrive il
@@ -90,6 +91,16 @@ python3 .claude/skills/creative-eval/scripts/eval_batch.py output/demo
 `CLAUDE.md` funziona come system prompt in un Claude Project: allega i file di `context/` come
 knowledge e le skill come istruzioni. Gli script vanno eseguiti in locale.
 
-## Licenza
+## Licenza e copyright
 
-MIT.
+© 2026 **Simone Dassereto**. Tutti i diritti riservati. Autore e ideatore del kit, delle skill, del
+system prompt e della metodologia A/B/hybrid/A-composite.
+
+Uso personale consentito (per te, il tuo brand o la tua azienda) lasciando intatti `LICENSE` e le
+intestazioni nei file. Vietati senza permesso scritto: ridistribuzione, rivendita, inserimento in
+corsi o prodotti, rimozione del nome dell'autore, uso per addestrare modelli. Testo completo in
+[`LICENSE`](LICENSE).
+
+**Provenienza:** `SHA256SUMS` contiene l'impronta di ogni file della versione pubblicata; insieme alla
+cronologia dei commit su GitHub data e attribuisce l'originale. Per verificare una copia:
+`shasum -a 256 -c SHA256SUMS`.

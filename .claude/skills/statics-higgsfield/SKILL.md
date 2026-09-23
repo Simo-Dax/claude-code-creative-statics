@@ -2,6 +2,7 @@
 name: statics-higgsfield
 description: Route B (generativa) - produce static ads o immagini con Higgsfield (MCP o CLI; fal.ai come backup) quando qualcosa va immaginato - foto, persone, scene, texture, illustrazione nuova. Template ufficiale sempre allegato come reference 1, pre-flight prima di spendere crediti, retry disciplinati. Include la modalità "solo immagine" per la route hybrid. Usala quando creative-router assegna B o hybrid.
 ---
+<!-- Copyright (c) 2026 Simone Dassereto. All rights reserved. See LICENSE. -->
 
 # Statics Higgsfield (Route B)
 

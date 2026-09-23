@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Copyright (c) 2026 Simone Dassereto. All rights reserved. See LICENSE.
 """creative-eval - misura ogni PNG di un batch contro i benchmark del brand e il suo template.
 
     python3 eval_batch.py <batch_dir> [--benchmarks context/brand/eval_benchmarks.json]

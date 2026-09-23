@@ -2,6 +2,7 @@
 name: creative-eval
 description: Valuta un batch di static ads prima della consegna - controlli misurati (canvas, margini, fondo, palette) + rubrica visiva di coerenza col template - e chiude il ciclo di self-learning confrontando il proprio voto con il verdetto umano e scrivendo le regole nuove nelle guidelines. Usala dopo ogni produzione (Route A o B) e dopo ogni round di review.
 ---
+<!-- Copyright (c) 2026 Simone Dassereto. All rights reserved. See LICENSE. -->
 
 # Creative eval (self-assessment + learning)
 

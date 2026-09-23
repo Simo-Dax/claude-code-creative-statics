@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Copyright (c) 2026 Simone Dassereto. All rights reserved. See LICENSE.
 """Route A - riempie un template HTML per ogni ad di ads.json. Un loop, non N generazioni.
 
     python3 build.py <batch_dir>

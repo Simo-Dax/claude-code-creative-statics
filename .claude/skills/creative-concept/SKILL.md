@@ -2,6 +2,7 @@
 name: creative-concept
 description: Trasforma un brief in 3-5 creative concept per static ads (angolo, leva, copy finale, template, brief di produzione per ad). Primo step del flusso, prima di qualsiasi immagine. Usala quando l'utente chiede concept, idee creative, headline per static, o "prepara il brief creativo".
 ---
+<!-- Copyright (c) 2026 Simone Dassereto. All rights reserved. See LICENSE. -->
 
 # Creative concept (static ads)
 

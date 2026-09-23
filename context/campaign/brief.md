@@ -1,3 +1,4 @@
+<!-- Copyright (c) 2026 Simone Dassereto. All rights reserved. See LICENSE. -->
 # Brief creativo - [campagna]
 
 > Compila prima di lanciare `creative-concept`. I campi 🔴 sono obbligatori.

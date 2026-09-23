@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Copyright (c) 2026 Simone Dassereto. All rights reserved. See LICENSE.
 # Route A - rasterizza ogni .html del batch in PNG 1080x1350 con Chrome headless.
 # Uso: ./render.sh [batch_dir] [WxH]   (default: cartella corrente, 1080x1350)
 set -euo pipefail

@@ -1,3 +1,4 @@
+<!-- Copyright (c) 2026 Simone Dassereto. All rights reserved. See LICENSE. -->
 # Tone of Voice - [NOME BRAND]
 
 > **A cosa serve:** come suona il copy sull'ad. Letto da `creative-concept` prima di scrivere headline.
