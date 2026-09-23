@@ -1,0 +1,10 @@
+{
+  "batch": "demo",
+  "palette": ["#1A1A2E", "#F5F2EA", "#C8F25C", "#B8B6F8", "#5B3FD9"],
+  "ads": [
+    {"id": "demo_dark", "file": "demo_dark.png", "concept": "Demo", "route": "A",
+     "route_reason": "tutto esiste come file", "template": null, "bleeds": "B"},
+    {"id": "demo_light", "file": "demo_light.png", "concept": "Demo", "route": "A",
+     "route_reason": "tutto esiste come file", "template": null, "bleeds": "B"}
+  ]
+}

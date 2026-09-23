@@ -1,0 +1,58 @@
+<!doctype html>
+<!-- Cluster "Headline&Subheading" - Route A. Placeholder {{...}} riempiti da build.py.
+     Numeri = design_system.md §2 e §4 (valori di esempio: sostituisci con i tuoi misurati). -->
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  {{FONT_FACES}}
+  :root {
+    --ground: {{GROUND}};
+    --ink: {{INK}};
+    --accent: {{ACCENT}};
+    --chip: {{CHIP}};
+  }
+  html, body { margin: 0; padding: 0; }
+  .canvas {
+    position: relative; overflow: hidden;
+    width: 1080px; height: 1350px;              /* §4 canvas master */
+    background: var(--ground);
+  }
+  .headline {
+    position: absolute; left: 50px; top: 60px;  /* §4 margine 50, primo elemento ~60 */
+    width: 980px;                               /* §4 colonna max */
+    margin: 0;
+    font-family: "Headline", "Arial Narrow", sans-serif; font-weight: 700;
+    font-size: {{HEADLINE_SIZE}}px;             /* §2 range 98-135, misurato per ad */
+    line-height: 1.0;                           /* §2 interlinea 100% */
+    letter-spacing: 0;                          /* §2 tracking 0 */
+    color: var(--ink);
+  }
+  .headline .hl { color: var(--accent); }
+  .body {
+    position: absolute; left: 50px; top: {{BODY_TOP}}px;
+    width: 800px; margin: 0;
+    font-family: "Body", Inter, system-ui, sans-serif; font-weight: 500;
+    font-size: 65px; line-height: 1.2; letter-spacing: 0;   /* §2 body */
+    color: var(--ink);
+  }
+  .chip {                                        /* §4 footer: chip logo che esce dal bordo in basso */
+    position: absolute; left: 50px; top: 1227px;
+    width: 299px; height: 143px; border-radius: 20px;
+    background: var(--chip);
+    display: flex; align-items: flex-start; justify-content: center; padding-top: 34px; box-sizing: border-box;
+  }
+  .chip img { width: 200px; height: auto; }
+  .chip .wordmark {                              /* fallback testuale se manca il logo */
+    font-family: "Headline", sans-serif; font-weight: 700; font-size: 56px; color: var(--ground);
+  }
+</style>
+</head>
+<body>
+  <div class="canvas">
+    <h1 class="headline">{{HEADLINE_HTML}}</h1>
+    <p class="body">{{BODY}}</p>
+    <div class="chip">{{LOGO}}</div>
+  </div>
+</body>
+</html>

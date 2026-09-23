@@ -1,0 +1,17 @@
+{
+  "template": ".claude/skills/statics-css/templates/headline_subheading.html",
+  "fonts": {
+    "Headline": "context/brand/assets/fonts/Headline-Bold.otf",
+    "Body": "context/brand/assets/fonts/Body-Medium.otf"
+  },
+  "ads": [
+    {"id": "demo_dark", "headline": ["Il turno di sabato", "*si scrive da solo*"],
+     "body": "Una frase breve che spiega il come.",
+     "ground": "#1A1A2E", "ink": "#F5F2EA", "accent": "#C8F25C", "chip": "#B8B6F8",
+     "logo": "context/brand/assets/logos/logo_01.svg", "wordmark": "brand", "headline_size": 110},
+    {"id": "demo_light", "headline": ["Meno sprechi", "ogni settimana"],
+     "body": "Il body resta corto.",
+     "ground": "#F5F2EA", "ink": "#1A1A2E", "accent": "#5B3FD9", "chip": "#1A1A2E",
+     "logo": "context/brand/assets/logos/logo_02.svg", "wordmark": "brand", "headline_size": 120}
+  ]
+}

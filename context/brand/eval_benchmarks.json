@@ -1,0 +1,21 @@
+{
+  "canvas": [
+    1080,
+    1350
+  ],
+  "margin_floor": 48,
+  "palette_tolerance": 40,
+  "palette_min": {
+    "A": 0.8,
+    "A-composite": 0.8,
+    "hybrid": 0.0,
+    "B": 0.0
+  },
+  "pass_score": 80,
+  "weights": {
+    "canvas": 15,
+    "margins": 40,
+    "ground": 20,
+    "palette": 25
+  }
+}
